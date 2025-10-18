@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://20.17.177.195/';
+const API_BASE_URL = 'https://20.17.177.195/';
 
 /**
  * A map of Indian state codes to primary language codes.
