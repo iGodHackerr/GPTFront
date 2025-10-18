@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://api.foxsol.tech/';
+const API_BASE_URL = 'https://api.foxsol.tech';
 
 /**
  * A map of Indian state codes to primary language codes.
