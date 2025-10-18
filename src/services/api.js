@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://gptback-m24h.onrender.com/api';
+const API_BASE_URL = 'http://20.17.177.195/';
 
 /**
  * A map of Indian state codes to primary language codes.
